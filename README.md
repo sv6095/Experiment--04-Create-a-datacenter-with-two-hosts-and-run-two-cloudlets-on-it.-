@@ -107,6 +107,7 @@ Execution Time = Cloudlet Length / VM MIPS
 ## Result
 
 The experiment successfully demonstrates that cloudlets executed on higher MIPS virtual machines complete faster than those executed on lower MIPS VMs, even when the workload is identical.
+![WhatsApp Image 2026-02-20 at 10 20 28 AM](https://github.com/user-attachments/assets/0acc2650-7027-4bad-a409-f5a66ab7f521)
 
 ---
 
